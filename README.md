@@ -1,6 +1,4 @@
-# Google Case Study 2: Bellabeat Smart Device Usage
-
-![Presentation updated](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/011443df-84a9-4c60-8908-74ff641d61f6)
+[# Google Case Study 2: Bellabeat Smart Device Usage
 
 ## Quick Links:
 
@@ -187,3 +185,4 @@ By implementing these recommendations, Bellabeat can enhance the user experience
 
 ![dashboard](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/b5100d79-5d16-433f-97ee-fbd33caab532)
 
+](https://github.com/JJRockzzzz/Google-Data-Analytics-Capstone-Project/tree/main)

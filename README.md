@@ -1,4 +1,4 @@
-# Google Case Study 2: Bellabeat Smart Device Usage
+# Google Case Study 1: Bellabeat Smart Device Usage
 
 ## Quick Links:
 

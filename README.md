@@ -3,8 +3,7 @@
 ## Quick Links:
 
 ### Data Source: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
-### SQL Code: [Bellabeat Case Study Complete Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
-### Tableau Public: [Bellabeat Smart Device Usage](https://public.tableau.com/views/BellaBeatSmartDeviceUsageDashboard/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+### SQL Code: [Bellabeat Case Study Complete Code](https://github.com/JJRockzzzz/Google-Data-Analytics-Capstone-Project/blob/main/Bellabeat%20Case%20Study%20SQL.sql)
 
 ## Introduction
 
